@@ -1433,6 +1433,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 11,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-shin-hyakunin-isshu",
   "work": "新百人一首",
@@ -1445,7 +1449,7 @@
   "blocks": 11,
   "chars": 2820,
   "poems": 85,
-  "yaku": 0,
+  "yaku": 11,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T09:54:08+09:00"
